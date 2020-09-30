@@ -1,3 +1,4 @@
+alert('Verdraait waarom heb ik in godsnaam gekozen voor let ipv const :-(')
 console.log('Jij bent goed bezig man :-)');
 console.log('');
 console.log('');
